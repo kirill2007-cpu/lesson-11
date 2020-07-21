@@ -1,6 +1,7 @@
 <p align="center">
   <img src="eh-logo.svg" alt="Exception Hunters logo"/>
 </p>
+<br />
 
 # Что будем делать (предполагаемая дата урока: 22 июля 2020)
 1) Продолжим верстать "Super Host"
