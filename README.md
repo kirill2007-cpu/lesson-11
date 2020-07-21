@@ -12,7 +12,7 @@
 6) JQuery (javascript библиотека)
 7) BEM (Block Element Modificator)
 
-# Что не успели пройти в прошлом уроке(долги)
+# Что не успели пройти в прошлом уроке
 1) rgb, rgba (альфа канал, 16-тиричная система)
 2) Pixel Perfect 
 <br />
