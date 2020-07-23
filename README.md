@@ -70,7 +70,9 @@ html {
     box-sizing: inherit;
 }
 ```
-<img with="100" height="100" src="logos/border-box.svg" alt="border-box"/>
+<p align="center">
+  <img height="400" src="logos/border-box.svg" alt="border-box"/>
+</p>
 
 4) Если у нас в некотором месте html документа стоят подряд одинаковые элементы с одинаковыми классами и нужно что-бы к первому стиль не применился то пишем:
 ```html
