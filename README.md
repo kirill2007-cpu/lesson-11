@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="eh-logo.svg" alt="Exception Hunters logo"/>
+  <img src="logos/eh-logo.svg" alt="Exception Hunters logo"/>
 </p>
 <br />
 
@@ -85,12 +85,12 @@ html {
 <br />
 <br />
 <p align="center">
-  <img with="100" height="100" src="html-5.svg" alt="html-logo"/>
-  <img with="100" height="100" src="css.svg" alt="css-logo"/>
-  <img with="100" height="100" src="javascript.svg" alt="js-logo"/>
-  <img with="100" height="100" src="react.svg" alt="react-logo"/>
-  <img with="100" height="100" src="redux.svg" alt="redux-logo"/>
-  <img with="100" height="100" src="firebase.svg" alt="firebase"/>
-  <img with="100" height="100" src="graphql.svg" alt="graphql"/>
-  <img with="100" height="100" src="redux-saga.svg" alt="redux-saga-logo"/>
+  <img with="100" height="100" src="logos/html-5.svg" alt="html-logo"/>
+  <img with="100" height="100" src="logos/css.svg" alt="css-logo"/>
+  <img with="100" height="100" src="logos/javascript.svg" alt="js-logo"/>
+  <img with="100" height="100" src="logos/react.svg" alt="react-logo"/>
+  <img with="100" height="100" src="logos/redux.svg" alt="redux-logo"/>
+  <img with="100" height="100" src="logos/firebase.svg" alt="firebase"/>
+  <img with="100" height="100" src="logos/graphql.svg" alt="graphql"/>
+  <img with="100" height="100" src="logos/redux-saga.svg" alt="redux-saga-logo"/>
 </p>
