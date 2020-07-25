@@ -97,4 +97,5 @@ html {
   <img with="100" height="100" src="logos/firebase.svg" alt="firebase"/>
   <img with="100" height="100" src="logos/graphql.svg" alt="graphql"/>
   <img with="100" height="100" src="logos/redux-saga.svg" alt="redux-saga-logo"/>
+  <img with="100" height="100" src="logos/material-ui-1.svg" alt="material-ui-logo"/>
 </p>
